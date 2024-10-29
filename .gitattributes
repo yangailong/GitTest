@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 GrassN.png filter=lfs diff=lfs merge=lfs -text
+GrassN02.png filter=lfs diff=lfs merge=lfs -text
